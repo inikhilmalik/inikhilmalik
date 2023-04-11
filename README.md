@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 - 👨‍💻 Portfolio [https://inikhilmalik.github.io/](https://inikhilmalik.github.io/)
 
-- 💬 Ask me about **HTML | CSS | React | Node**
+- 💬 Ask me about **HTML | CSS| JavaScript | React | Node**
 
 - 📫 How to reach me **inikhilmalik@gmail.com**
 
